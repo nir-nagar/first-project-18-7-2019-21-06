@@ -1,0 +1,13 @@
+
+.myPic{
+    height: 140px;
+    width: 252px;
+   
+}
+.del_button{
+    position: inherit;
+    position: absolute;
+    right: 1px;
+    width: 24px;
+    height: 30px;
+}
